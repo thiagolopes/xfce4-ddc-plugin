@@ -1,0 +1,10 @@
+[Xfce Panel]
+Type=X-XFCE-ddc
+Encoding=UTF-8
+Name=Xfce DDC
+Comment=Sample plugin for the Xfce panel
+Icon=xfce4-sample-plugin
+X-XFCE-Module=ddc-plugin
+X-XFCE-Internal=false
+X-XFCE-Unique=false
+X-XFCE-API=2.0
