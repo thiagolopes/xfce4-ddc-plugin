@@ -5,6 +5,8 @@
 Xfce4-ddc-plugin is a plugin to the Xfce panel, version 4.16 or higher.
 It allow control your monitor via DDC protocol
 
+<img alt="Image" src="https://github.com/user-attachments/assets/8359d50f-9488-4846-9829-8db1e41f766a" />
+
 ----
 
 ### Installation

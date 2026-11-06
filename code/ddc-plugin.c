@@ -38,7 +38,7 @@ typedef struct{
 static void
 ddc_plugin_about(XfcePanelPlugin *plugin, XfceDDC *ddc) {
     const gchar *about_data[] = {
-        "Xfce development team <xfce4-dev@xfce.org>",g
+        "Xfce development team <xfce4-dev@xfce.org>",
         "Thiago Lopes <thiagolopes@pm.me>",
         NULL
     };
